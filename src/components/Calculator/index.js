@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import colors from '../../utils/colors'
+import colors from '../../utils/style/colors'
 import { useState } from 'react'
 
 const Button = styled.button`
